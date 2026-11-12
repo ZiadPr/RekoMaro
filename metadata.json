@@ -1,0 +1,6 @@
+{
+  "name": "RekoMaro | ريكومارو - Rockstar Deals",
+  "description": "تطبيق لمتابعة أسعار وتخفيضات ألعاب Rockstar Games على جميع المنصات (Steam, PlayStation, Xbox, Epic Games, Switch)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
